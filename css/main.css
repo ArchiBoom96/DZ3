@@ -1,0 +1,88 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(107, 118, 139);
+    text-shadow: 1px 1px 2px rgb(104, 72, 43), 0 0 1em rgb(82, 48, 39);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.2em;
+}
+
+.wrapper{
+    max-width: 1024px;
+    margin: auto;
+    text-align: justify;
+}
+
+.wrapper p{
+    
+    text-align: justify;
+    margin: 3%;
+}
+
+h1,h2{
+    text-align:center;
+    font-family: 'Reggae One', cursive;
+    margin: 4%;
+}
+h3{margin: 4%;}
+.nav{
+  overflow: hidden;
+  margin: 2px;
+}
+.nav1{
+    overflow: hidden;
+    margin: 25px;
+}
+.nav1 li {
+    float: left;
+    margin-right: 2%;
+    list-style-type: none;
+  }
+  
+  .nav1 li a {
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+
+li{
+    font-family: 'Reggae One', cursive;
+    list-style-type:none;
+}
+
+ .border{
+    box-sizing: border-box;
+    margin: 3%;
+    width:450px;
+    height: 300px;
+    border: 5px solid rgb(58, 31, 31);
+    padding: 2px;
+    float: right;
+ } 
+ .x{font-weight: bold;
+     text-decoration-line: underline ;
+ }
+ .z{
+    font-style: italic;
+    text-decoration-line:line-through;
+ }
+ .y{
+     font-style:italic;
+     font-size: 1.2em;
+ }
+
+ .footer{
+     margin: 2%;
+     text-align: center;
+ }
+.telme a{
+font-size: 120%;
+color: rgb(60, 129, 95);
+ }
+ .viber a{
+    font-size: 120%;
+    color: rgb(85, 6, 158);
+ }
+ .skype a{
+    font-size: 120%;
+    color: rgb(11, 14, 190);
+ }
